@@ -10,7 +10,7 @@ A CLI logic puzzle game written in Python
 ## 🎮 How to Play
 
 1. You are given a pool of **5 words**.
-2. The game secretively picks **4 words** without replacement and puts them in a random order.
+2. The game secretively picks **4 words** git and puts them in a random order.
 3. Your goal is to deduce both the **correct 4 words** and their **exact sequence** within **6 attempts**.
 
 ### Feedback Mechanics
@@ -28,4 +28,17 @@ A CLI logic puzzle game written in Python
 - Python 3.8 or higher installed on your machine.
 
 ### Installation & Execution
+1. ## Clone the repository:
+```bash 
+  https://github.com/alxdrak/Verity-Guessing.git
+  cd Verity-Guessing
+```
 
+2. Run the game: 
+```bash
+ python Verity.py
+```
+
+
+
+3. FIND THE VERITYS!!!
